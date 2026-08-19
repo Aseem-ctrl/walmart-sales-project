@@ -63,6 +63,38 @@ Table: `walmartsales_db`
 - COGS, Profit_margin
 - Rating
 
-## Author
+## Screenshots
 
-Aseem Ahmed
+### Dataset Preview
+<p align="center">
+  <img src="images/Dataset_preview.png" width="900">
+</p>
+
+---
+
+### Branch payment method
+<p align="center">
+  <img src="images/branch_payment_method.png" width="900">
+</p>
+
+---
+
+### Data type conversion
+<p align="center">
+  <img src="images/datatype_conversion.png" width="900">
+</p>
+
+---
+
+### revenue drop analysis
+<p align="center">
+  <img src="images/revenue_drop_analysis.png" width="900">
+</p>
+
+---
+
+### Sales shift analysis
+<p align="center">
+  <img src="images/sales_shift_analysis.png" width="900">
+</p>
+
